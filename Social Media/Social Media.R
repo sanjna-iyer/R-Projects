@@ -79,4 +79,5 @@ print(comparisions$significant)
 
 # Step 13: Come up with final business conclusion
 # When comparing Eastern countries with Western countries, social media usage is statistically significant,
-# compared to comparing between Western countries like the US and UK.
+# compared to comparing between Western vs. Eastern countries like the US/UK vs. China/Russia showing that 
+# Eastern countries have similar social media usage and Western countries have similar social media usage.
